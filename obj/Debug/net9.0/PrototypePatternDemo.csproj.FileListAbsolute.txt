@@ -1,0 +1,15 @@
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\bin\Debug\net9.0\PrototypePatternDemo.exe
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\bin\Debug\net9.0\PrototypePatternDemo.deps.json
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\bin\Debug\net9.0\PrototypePatternDemo.runtimeconfig.json
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\bin\Debug\net9.0\PrototypePatternDemo.dll
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\bin\Debug\net9.0\PrototypePatternDemo.pdb
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.AssemblyInfoInputs.cache
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.AssemblyInfo.cs
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.sourcelink.json
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.dll
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\refint\PrototypePatternDemo.dll
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.pdb
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\PrototypePatternDemo.genruntimeconfig.cache
+C:\Users\furye\OneDrive\Документы\GitHub\FolderStructure\PrototypePatternDemo\obj\Debug\net9.0\ref\PrototypePatternDemo.dll
